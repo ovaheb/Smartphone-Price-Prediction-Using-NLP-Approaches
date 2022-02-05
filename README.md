@@ -1,2 +1,2 @@
 # Smartphone Price Prediction Using NLP Approaches
- 
+In this project, price of smartphones were predicted using the text description of advertisement for that phone using regression and NLP preprocessing. Dataset is collected from an Iranian advertisement website. At first, I inspected data and prepared and normalized it for implementing learning algorithms on it. The most efforting task was doing preprocessing for texts in persian but it was handled with Hazm library. The final step was to enhance and set hyperparameters for some regression models to get the maximum accuracy and minimum MSE from each model.
